@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @KV2718
-- 👀 I’m interested in Pure Mathematics, specifically analytic number theory (ANT)
-- 🌱 I’m currently learning The Circle Method in ANT
+- 👀 I’m interested in Pure Mathematics, currently algebraic geometry
+- 🌱 I’m currently learning about sheafification
 - 💞️ I’m looking to collaborate on anything interesting
-- 📫 How to reach me email: kumaylvanat@gmail.com
+- 📫 How to reach me: kumaylvanat@gmail.com
 - ⚡ Fun fact: there exist exploding ants
 
 <!---
